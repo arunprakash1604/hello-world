@@ -1,2 +1,2 @@
 # hello-world
-My testing for Azure Devops and explore the Githib
+My testing for Azure Devops and explore the Github
